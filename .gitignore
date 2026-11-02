@@ -1,0 +1,13 @@
+# 依赖与构建产物（部署平台会自动安装、自动构建，不需要上传）
+node_modules/
+dist/
+
+# 本地工具与系统文件
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
